@@ -131,14 +131,3 @@ Tentative de réduire l’impact des valeurs extrêmes → **aucun gain signific
 ### Modèles alternatifs  
 Tous testés avec la même pipeline d’imputation + encodage.
 
----
-
-## Conclusion  
-Ce projet montre l’importance :
-
-- d’une **analyse exploratoire rigoureuse**  
-- d’une **gestion intelligente des valeurs manquantes**  
-- de la **validation croisée** pour éviter l’overfitting  
-- de la **comparaison systématique des modèles**
-
-Le modèle final (**XGBoost**) offre la meilleure performance et une grande stabilité, ce qui en fait un excellent choix pour la prédiction du statut clinique.
